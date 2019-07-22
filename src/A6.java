@@ -18,7 +18,7 @@ public class A6
 		{
 			if(i<ch.length && ch[i]==' ')
 			{
-				count++;
+				count++++++;
 			}	
 		}
 		 System.out.println("Total words :"+count);
